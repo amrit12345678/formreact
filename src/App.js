@@ -25,7 +25,7 @@ class Form extends Component{
       />
       <br/>
       <label for='phone'>
-        Phone:
+        Phone Number:
       </label>
       <input
         className = 'field'
